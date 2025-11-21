@@ -105,10 +105,11 @@ Solusi:
 
 Matikan node dengan Ctrl + C.
 
-Brikut link Demonstrasi: https://youtu.be/UsAYJ0VoVkE 
 
 Tunggu beberapa detik hingga pesan dari Tab Kedua menunjukkan bahwa Lifecycle Manager telah berhasil mengaktifkan semua node Nav2 (misalnya, semua node telah beralih ke status active).
 
 Jalankan kembali perintah ros2 run nav_kel4b navkel4b.
 
 Dengan menjalankan ketiga tab ini, Anda telah mengaktifkan seluruh pipeline otonom Anda: Lokalisasi memberikan posisi, Navigasi merencanakan dan mengontrol, dan Node Kustom Anda secara otomatis memicu tugas pengiriman barang.
+
+Berikut link Demonstrasi: https://youtu.be/UsAYJ0VoVkE 
