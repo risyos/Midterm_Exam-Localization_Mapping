@@ -105,6 +105,8 @@ Solusi:
 
 Matikan node dengan Ctrl + C.
 
+Brikut link Demonstrasi: https://youtu.be/UsAYJ0VoVkE 
+
 Tunggu beberapa detik hingga pesan dari Tab Kedua menunjukkan bahwa Lifecycle Manager telah berhasil mengaktifkan semua node Nav2 (misalnya, semua node telah beralih ke status active).
 
 Jalankan kembali perintah ros2 run nav_kel4b navkel4b.
